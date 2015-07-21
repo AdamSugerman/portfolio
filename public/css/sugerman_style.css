@@ -1,0 +1,42 @@
+/*sugerman_style.css*/
+
+body {
+  padding: 0;
+  margin: 0px;
+  font-family: Helvetica, sans-serif;
+  background-color: white;
+}
+
+#navbar {
+  background-color: black;
+  background-position: top;
+  background-size: contain;
+}
+
+#sidebar {
+  background-color: black;
+  background-position: left;
+  background-size: contain;
+}
+
+p (
+  color: white;
+  )
+
+h1 {
+  color: blue;
+  margin-left: 300 px
+}
+
+h2 {
+  color: red;
+  margin-left: 300 px
+}
+
+footer {
+  <div id="footer">
+  <section id = "copyright_and_videolink">
+  background-color: black;
+  background-position: bottom;
+  background-size: auto;
+}
